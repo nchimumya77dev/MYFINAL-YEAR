@@ -1,2 +1,3 @@
-# MYFINAL-YEAR
-THE COMPUTER SCIENCE FINAL YEAR PROJECT SOLAR PROJECT
+DATA MINNING COURSE
+judgment-classification-project
+Business Understanding
